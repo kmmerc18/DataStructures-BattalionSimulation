@@ -1,0 +1,5 @@
+COMMENT: no deaths at all
+MODE: DL
+NUM_GENERALS: 1
+NUM_PLANETS: 1
+0 JEDI G0 P0 F2 #11
